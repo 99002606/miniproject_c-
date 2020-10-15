@@ -16,4 +16,4 @@ jobs:
     - uses: actions/checkout@v2
       
     - name: make all
-      run:  make Movies
+      run:  make ffff-main
